@@ -1,0 +1,134 @@
+<!--
+  SETUP CHECKLIST (this comment is invisible once rendered on GitHub — delete
+  it once you're done, or leave it, it won't show either way)
+
+  1. This file must live in a repo named EXACTLY like your GitHub username
+     (i.e. github.com/anokha-chhokra/anokha-chhokra) for it to appear on your
+     profile page.
+  2. Copy the whole `assets/` folder into that repo, at the same level as
+     this README, so the image paths below resolve.
+  3. Copy `.github/workflows/snake.yml` in too, then push to `main` with
+     Actions enabled. It builds the snake animation automatically (first run
+     may take a minute — re-run it from the Actions tab if the image looks
+     empty at first).
+  4. Swap every YOUR-... placeholder below (LinkedIn, X/Twitter, portfolio,
+     email) for your real links.
+  5. The "Currently" bullets near the top are flavor text — edit them to say
+     what you're actually building/learning right now.
+  6. Username is already wired up as `anokha-chhokra` everywhere else
+     (stats, streak, trophies, snake). Change it if that's not right.
+-->
+
+<div align="center">
+
+<img src="assets/invader.png" width="110" alt="pixel space invader" />
+
+<a href="https://github.com/anokha-chhokra">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=700&height=120&lines=Hi%2C+I%27m+%40anokha-chhokra;Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;SQL+%7C+JDBC+%7C+REST+APIs+%7C+React" alt="Typing SVG banner" />
+</a>
+
+`[■■■■■■■■■■■■■■■■■■■■] 100% LOADED`
+
+> A backend developer who ships production-grade **Java / Spring Boot** microservices, wires up clean **REST APIs**, keeps **SQL** queries honest over **JDBC**, and occasionally frontends things with **React** so they don't look sad.
+
+<img src="assets/pixel-divider.png" width="100%" height="12" alt="pixel divider" />
+
+</div>
+
+### 👾 Currently
+
+- 🔭 Building and scaling **Spring Boot** microservices
+- 🌱 Sharpening **SQL** query performance and **JDBC** fundamentals
+- 🎮 Occasionally moonlighting on **React** frontends
+- ⚡ Debugs noticeably faster with lo-fi arcade music on
+
+<div align="center">
+<img src="assets/pixel-divider.png" width="100%" height="12" alt="pixel divider" />
+</div>
+
+### 🕹️ Tech Stack
+
+<div align="center">
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD400)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=39FF14)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=apacheairflow&logoColor=00E5FF)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+
+**Data**
+
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=java&logoColor=FFD400)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+<div align="center">
+<img src="assets/pixel-divider.png" width="100%" height="12" alt="pixel divider" />
+</div>
+
+### 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anokha-chhokra&show_icons=true&count_private=true&hide_border=false&border_color=39FF14&bg_color=0D1117&title_color=39FF14&icon_color=FF2079&text_color=E6E6E6" alt="GitHub stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anokha-chhokra&theme=dark&hide_border=false&border=39FF14&background=0D1117&ring=FF2079&fire=FFD400&currStreakLabel=39FF14" alt="GitHub streak stats" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anokha-chhokra&layout=compact&hide_border=false&border_color=39FF14&bg_color=0D1117&title_color=39FF14&text_color=E6E6E6&langs_count=8" alt="Top languages" height="165" />
+
+</div>
+
+### 🏆 Trophy Case
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=anokha-chhokra&theme=matrix&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&row=2)
+
+</div>
+
+<div align="center">
+<img src="assets/pixel-divider.png" width="100%" height="12" alt="pixel divider" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anokha-chhokra/anokha-chhokra/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anokha-chhokra/anokha-chhokra/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anokha-chhokra/anokha-chhokra/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<sub>Generated by the workflow in <code>.github/workflows/snake.yml</code> — shows up after the first Actions run.</sub>
+
+</div>
+
+<div align="center">
+<img src="assets/pixel-divider.png" width="100%" height="12" alt="pixel divider" />
+</div>
+
+### 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/arbajali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=FFD400)](https://anokha-chhokra.github.io/arbaj_dev/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:arbajmessiali@outlook.com)
+
+</div>
+
+<div align="center">
+
+<img src="assets/pixel-divider.png" width="100%" height="12" alt="pixel divider" />
+
+<img src="https://komarev.com/ghpvc/?username=anokha-chhokra&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" alt="profile views" />
+
+<sub>🕹️ Thanks for scrolling this far — insert coin to continue.</sub>
+
+</div>
