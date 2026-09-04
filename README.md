@@ -87,7 +87,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=anokha-chhokra&theme=matrix&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&row=2)
+![Trophies](https://github-trophies.vercel.app/?username=anokha-chhokra&theme=matrix&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&row=2)
 
 </div>
 
