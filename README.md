@@ -76,10 +76,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anokha-chhokra&show_icons=true&count_private=true&hide_border=false&border_color=39FF14&bg_color=0D1117&title_color=39FF14&icon_color=FF2079&text_color=E6E6E6" alt="GitHub stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=anokha-chhokra&show_icons=true&count_private=true&hide_border=false&border_color=39FF14&bg_color=0D1117&title_color=39FF14&icon_color=FF2079&text_color=E6E6E6" alt="GitHub stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anokha-chhokra&theme=dark&hide_border=false&border=39FF14&background=0D1117&ring=FF2079&fire=FFD400&currStreakLabel=39FF14" alt="GitHub streak stats" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anokha-chhokra&layout=compact&hide_border=false&border_color=39FF14&bg_color=0D1117&title_color=39FF14&text_color=E6E6E6&langs_count=8" alt="Top languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anokha-chhokra&layout=compact&hide_border=false&border_color=39FF14&bg_color=0D1117&title_color=39FF14&text_color=E6E6E6&langs_count=8" alt="Top languages" height="165" />
 
 </div>
 
